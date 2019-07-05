@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">KMHDI</string>
+    <string name="open">Open</string>
+    <string name="google_maps_api_key">AIzaSyBSe1WmtiJc-xnxahElX7rTLOWtjnz4HTQ</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pura">Pura</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_utama">KMHDI</string>
+    <string name="title_activity_about">Tentang KMHDI</string>
+    <string name="kmhdi1">Memasuki awal tahun 1990-an, kebijakan Normalisasi Kehidupan Kampus/Badan Koordinasi Kemahasiswaan (NKK/BKK) dicabut dan sebagai gantinya keluar Pedoman Umum Organisasi Kemahasiswaan (PUOK). Melalui PUOK ini, ditetapkan bahwa organisasi kemahasiswa intra kampus yang diakui adalah Senat Mahasiswa Perguruan Tinggi (SMPT), yang didalamnya terdiri dari Senat Mahasiswa Fakultas (SMF) dan Unit Kegiatan Mahasiswa (UKM). \n
+Situasi mahasiswa Indonesia di tanah air, sebagaimana yang disebutkan di atas, membawa pengaruh yang besar pada mahasiswa Hindu di awal dekade 90-an. Mahasiswa Hindu yang pada saat tersebut telah memiliki jaringan informasi internal yang bersifat informal di antara beberapa organisasi mahasiswa Hindu yang terpisah-pisah, akhirnya tergerak untuk membuat suatu jaringan informasi yang permanen di antara mereka. \n
+Setelah jaringan informasi mahasiswa Hindu Indonesia makin solid, para pelaku pertukaran informasi di dalamnya (yang notabene adalah para ketua organisasi mahasiswa Hindu lokal), memunculkan suatu keprihatinan tentang ketiadaan suatu organisasi mahasiswa Hindu yang bersifat formal dan sekaligus berjangkauan nasional. Ketiadaan organisasi ini, membuat aspirasi mahasiswa Hindu Indonesia tersumbat, dan seringkali terpaksa disalurkan melalui organisasi-organisasi lain yang bukan khas mahasiswa Hindu. Akhirnya, masa-masa awal dekade 90-an menjadi masa-masa pematangan ide tentang suatu organisasi Mahasiswa Hindu Indonesia yang berjangkauan nasional. \n
+</string>
+    <string name="kmhdi2">Tahap ini ditandai dengan munculnya keinginan untuk membentuk wadah Mahasiswa Hindu Indonesia ke dalam satu wadah yang bersifat nasional di Yogyakarta pada saat panel Forum dan Dialog Mahasiswa Hindu Nasional pada tahun 1991. Waktu itu diusulkan bentuk forum komunikasi informal, dan disepakati KMHD UGM sebagai fasilitator. Tugas dari forum komunikasi tersebut adalah untuk membangun jaringan komunikasi mahasiswa di berbagai perguruan tinggi di Indonesia. Bagi perguruan tinggi yang belum memiliki KMHDI di perguruan tingginya, diserukan agar segera membentuk KMHD yang bisa mengakomodasikan seluruh potensi dan aspirasi Mahasiswa Hindu di masing-masing perguruan tinggi. Dalam perjalanannya Forum Komunikasi banyak menemui kendala sehingga komunikasi mahasiswa Hindu Indonesia belum berjalan seperti yang diharapkan. \n</string>
+    <string name="kmhdi3">Menyadari kendala yang dihadapi oleh Forum Komunikasi tersebut, dilakukan pembicaraan lebih lanjut dalam Dialog Mahasiswa Hindu yang diselenggarakan pada saat TPKH ITS menyelenggarakan Seminar Nasional Mahasiswa Hindu pada tahun 1992. Adapun hasil yang dicapai pada saat itu adalah dibentuknya Koordinator Wilayah (Korwil) di masing-masing kota yang memiliki perguruan tinggi. Selain itu, untuk membicarakan mekanisme kerja Forum Komunikasi Mahasiswa Hindu, maka akan diadakan Dialog di Bali dengan tetap menunjuk KMHDI UGM sebagai fasilitator dan penyelenggara. Untuk menindaklanjuti hasil-hasil keputusan di ITS, pada tanggal 3 – 4 Agustus 1992 KMHD UGM bekerja sama dengan Senat Mahasiswa Universitas Warmadewa menyelenggarakan Panel Forum dan Dialog Mahasiswa Hindu Indonesia. Tujuan utamanya adalah untuk membahas mekanisme kerja dan biaya operasional dari Forum Komunikasi Mahasiswa Hindu Indonesia. Pada saat inilah munucl usulan untuk membentuk wadah yang bersifat Formal dan Nasional. Usulan tersebut dilontarkan pertama kali oleh KPMHD Malang selaku Korwil Malang. \n</string>
+    <string name="kmhdi4">Untuk menindaklanjuti hasil Dialog di Universitas Warmadewa, pada tanggal 9 – 11 Oktober 1992 diadakan Malang Informal Meeting (MIM) yang bersamaan dengan kegiatan Dharma Bakti VIII KPMHD Malang. Tujuan utama dari MIM adalah untuk menyamakan Visi dan persepsi tentang wadah yang akan dibentuk serta membuat rancangan materi untuk keperluan Kongres. Keputusan penting yang dihasilkan pada saat MIM adalah sebelum Kongres perlu diadakan Pra Kongres yang bertujuan untuk mengevaluasi kesiapan Mahasiswa Hindu dalam menyelenggarakan Kongres.\n</string>
+    <string name="kmhdi5">Pada tanggal 25 – 28 Desember 1992 diadakan Urun rembug Nasional di kampus UNHI Bali yang merupakan istilah lain dari Pra Kongres seperti yang dimaksudkan dalam MIM. Urun rembug ini lebih bersifat kekeluargaan untuk lebih mematangkan Pelaksanaan Kongres. Namun pada urun rembug ini kembali timbul perbedaan visi dan persepsi tentang wadah yang akan dibentuk. KMHD UGM tetap menghendaki wadah yang bersifat informal sedang delegasi lainnya menghendaki wadah yang bersifat formal berbentuk sebuah Organisasi. Setelah melalui perdebatan yang panjang maka KMHD UGM mengambil sikap walk out.\n \n</string>
+    <string name="kmhdi6">Dalam rangka mewujudkan keinginan untuk membentuk wadah bersama secara formal, maka diputuskan :\n</string>
+    <string name="kmhdi7">1. Pelaksanaan Konggres diundur sampai bulan September 1993.\n
+2. Tempat Kongres tetap di Bali.\n
+3. Untuk membahas rancangan AD/ART, GBHO dan Program Kerja maka diadakan pertemuan lanjutan di Bali.\n
+4. Pembiayaan Kongres ditanggung bersama oleh seluruh Korwil, dan Panitia.\n
+5. Dibentuk Tim Investigasi yang bertugas untuk mempelajari dan mendapatkan informasi mengenai kondisi Mahasiswa Hindu di seluruh Indonesia.\n \n</string>
+    <string name="kmhdi8">Kemudian pada tanggal 8 – 10 dan 14 – 15 Februari 1993 bertempat di Sekretariat Panitia Kongres, Jl. Ir. Ida Bagus Oka No. 5, diadakan Bali Informal Meeting (BIM). Hasil penting BIM adalah :\n</string>
+    <string name="kmhdi9">1. Nama Organisasi yang diusulkan pada kongres adalah Kesatuan Mahasiswa Hindu Dharma Indonesia, disingkat KMHDI.\n
+2. Akan diadakan pertemuan lanjutan di Bandung.\n
+3. Penegasan bahwa biaya kongres ditanggung bersama.\n
+4. Menugaskan untuk Korwil Bali dan NTB untuk membuat rancangan Program Kerja, dan Korwil Malang untuk membuat rancangan GBHO.\n
+5. Hal-hal yang belum dibahas dalam BIM akan dibahas dalam pertemuan di Bandung.\n
+6. Masing-masing Perguruan Tinggi untuk mengirimkan kalender akademik, untuk mencari waktu yang tepat tentang pelaksanaan kongres.\n</string>
+    <string name="kmhdi10">Kongres ini merupakan puncak dari seluruh pertemuan dan pembahasan sebelumnya. Kongres berlangsung dari tanggal 1 – 4 September 1993. Pada intinya kegiatan ini bermaksud untuk membentuk wadah nasional bagi Mahasiswa Hindu Dharma Indonesia dan sekaligus memilih Pengurus Pimpinan Pusat periode 1993 – 1996. Kongres pada akhirnya menghasilkan lima Ketetapan, lima Keputusan dan satu Keputusan Khusus, memilih dan menetapkan Susunan Pengurus Inti yang terdiri dari tiga orang, yaitu Ketua Umum, Sekretaris Jenderal, dan Bendahara Umum KMHDI.\n \n \n \n \n </string>
+    <string name="kmhdi11"></string>
+    <string name="kmhdi12"></string>
+    <string name="kmhdi13"></string>
+    <string name="kmhdi14"></string>
+    <string-array name="Daerah">
+        <item>Jakarta</item>
+        <item>Bali</item>
+        <item>Bandung</item>
+    </string-array>
+    <string-array name="Jakarta">
+        <item>Pura Adhitya jaya \n
+        Alamat : Jl. Daksinapati Raya No. 10, Rawamangun, Jakarta Timur</item>
+        <item>Pura Agung Taman Sari \n
+                Alamat : Komplek AURI Halim Perdana Kusuma</item>
+        <item>Pura Agung Widya Mandala \n
+                Alamat : Komplek Yon Zikon, Desa Putera Lenteng Agung </item>
+        <item>Pura Agung Wira Dharma Samudra \n
+                Alamat : Jl. Usman No. 02 Komplek Marinir Cilandak, Jkarta Selatan 12560</item>
+        <item>Pura Agung Wira Satya Buana \n
+                Alamat : Jl. Kesehatan, Komplek Paspampres, Tanah Abang, Jakarta Pusat</item>
+
+    </string-array>
+    <string-array name="Bali">
+        <item>Pura Besakih \n
+                Alamat : Besakih, Rendang, Kabupaten Karangasem, Bali 80863</item>
+        <item>Pura Tanah Lot \n
+                Alamat : Beraban, Kediri, Kabupaten Tabanan, Bali 8217</item>
+        <item>Pura Uluwatu \n
+                Alamat : Pecatu, Kuta Selatan, Kabupaten Badung, Bali</item>
+        <item>Pura Ulun Danu \n
+                Alamat : Danau Beratan, Candikuning, Baturiti, Tabanan Regency, Bali 82191</item>
+        <item>Pura Batur \n
+                Alamat : Jl. Kintamani, Batur Selatan, Kintamani, Batur Sel., Kintamani, Kabupaten Bangli, Bali 80652</item>
+    </string-array>
+    <string-array name="Bandung">
+        <item>Pura Praja Natha \n
+                Alamat : Pura yang Berada di Kampus IPDN</item>
+        <item>Pura Puser Dayeuh Siliwangi \n
+                Alamat : Jalan Lembong, Musium Siliwangi</item>
+        <item>Pura Tri Yudha Sakti \n
+                Alamat : Jl. Para Yudha No. 5, Desa Gelanggang, Kec. Batu Jajar. Kab. Dati II</item>
+        <item>Pura Agung Wira Loka Natha \n
+                Alamat : Jl. Raya Sriwijaya D II, Kel. Karang Mekar, Kota Cimahi</item>
+        <item>Pura Parahyangan Agung Jagatkarta \n
+                Alamat : Gunung Salak, Kampung Warung Loak, Desa Taman Sari, ke. Ciapus</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "358861725838",
+    "firebase_url": "https://kmhdi-3a338.firebaseio.com",
+    "project_id": "kmhdi-3a338",
+    "storage_bucket": "kmhdi-3a338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358861725838:android:dab9e361c69e9549",
+        "android_client_info": {
+          "package_name": "com.example.darsok.kmhdi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358861725838-edbkq53tqtchb729r7vpojhf3dip1af5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0uXkiveKA8Ilw7vcfAaY7bz69FKV-wQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
